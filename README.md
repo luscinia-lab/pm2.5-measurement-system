@@ -39,6 +39,10 @@ The system was used to measure particulate matter generated during:
 - Arduino IDE
 - C/C++
 
+## Source Code
+
+The source code is available in the `code` folder.
+
 ## Experiment
 
 Measurements were performed in different conditions to compare changes in particulate matter concentration.
